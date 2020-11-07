@@ -22,6 +22,7 @@ Lar-Sulai
 
                 <!-- theme configurator START -->
                 @section('content')
+                <h2>Hello</h2>
                 <div class="theme-configurator">
                     <div class="configurator-wrapper">
                         <div class="config-header">
